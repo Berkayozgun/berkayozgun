@@ -1,4 +1,4 @@
-Hi 👋It's Berkay Özgün
+Hi 👋I am Berkay Özgün
 =============================
 
 Front-end Developer
