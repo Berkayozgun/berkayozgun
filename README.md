@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Berkay Özgün, a computer engineering student at Trakya University. I've had the privilege of gaining practical experience in the tech field through internships. During my time at Jotform, I collaborated with the Enterprise Upgrade Team to create a customizable notification center application. At Parentwiser, I played a key role in redesigning their website using React.js and contributed to the development of a new React Native mobile app. I also had the opportunity to work remotely with Ecodation, where I was part of a team that developed a demo news app using the Ionic Framework. My language skills include fluent English (C1) and native Turkish. When I'm not coding, I enjoy table tennis, basketball, listening to thrash metal, playing multiplayer games, and reading. I hold certifications in responsive web design, mobile programming, and Python. Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br><br>
+Hello, I'm Berkay Özgün, a computer engineering student at Trakya University.Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br><br>
 
 
 ## 🌐 Socials:
