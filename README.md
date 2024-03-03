@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Berkay Özgün, a computer engineering student at Trakya University.Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br>
+Hello, I'm Berkay Özgün. Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br>
 
 
 ## 🌐 Socials:
