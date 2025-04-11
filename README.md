@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hello, I'm Berkay Özgün. Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br>
 
+<!--STATS_START-->
+Buraya istatistikler gelecek...
+<!--STATS_END-->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayozgun) 
