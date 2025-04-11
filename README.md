@@ -1,19 +1,6 @@
 # 💫 About Me:
 Hello, I'm Berkay Özgün. Feel free to contact me via email or connect on LinkedIn. You can also explore my code on GitHub. I'm always eager to collaborate on exciting tech projects and explore new opportunities!<br>
 
-# GitHub Profil İstatistikleri
-
-## Kişisel GitHub Profili
-
-![Kişisel GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Berkayozgun&show_icons=true&count_private=true&hide_title=true&hide=prs)
-
-
-## İş GitHub Profili
-
-![İş GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=berkayozgun-elmalitech&show_icons=true&count_private=true&hide_title=true&hide=prs)
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayozgun) 
 
