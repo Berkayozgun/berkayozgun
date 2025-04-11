@@ -7,10 +7,6 @@ Hello, I'm Berkay Özgün. Feel free to contact me via email or connect on Linke
 
 ![Kişisel GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Berkayozgun&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
-### En Popüler Proje
-![Kişisel Popüler Proje](https://github-readme-stats.vercel.app/api/pin/?username=Berkayozgun&repo=ProjeAdiniz)
-
----
 
 ## İş GitHub Profili
 
