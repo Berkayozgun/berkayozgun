@@ -11,22 +11,18 @@ I'm a Computer Engineer based in **Edirne, Turkey**, passionate about building s
 
 ---
 
-### 📊 GitHub Stats (Real-time)
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Berkayozgun">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Berkayozgun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Berkayozgun">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayozgun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Berkayozgun&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayozgun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🏆 Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Berkayozgun&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Berkayozgun&theme=flat&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
