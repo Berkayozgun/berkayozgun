@@ -11,14 +11,6 @@ I'm a Computer Engineer based in **Edirne, Turkey**, passionate about building s
 
 ---
 
-### 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkayozgun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & Mobile**
